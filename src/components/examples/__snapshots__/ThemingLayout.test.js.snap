@@ -1,0 +1,815 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "marginTop": "3em",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    Theming Examples
+  </h1>
+  <h2
+    className="ui dividing header"
+  >
+    Site
+  </h2>
+  <div
+    className="ui stackable three column grid"
+  >
+    <div
+      className="column"
+    >
+      <h1
+        className="ui header"
+      >
+        Heading 1
+      </h1>
+      <h2
+        className="ui header"
+      >
+        Heading 2
+      </h2>
+      <h3
+        className="ui header"
+      >
+        Heading 3
+      </h3>
+      <h4
+        className="ui header"
+      >
+        Heading 4
+      </h4>
+      <h5
+        className="ui header"
+      >
+        Heading 5
+      </h5>
+      <p>
+        Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.
+      </p>
+    </div>
+    <div
+      className="column"
+    >
+      <h2
+        className="ui header"
+      >
+        Example body text
+      </h2>
+      <p>
+        Nullam quis risus eget 
+        <a
+          href="#"
+        >
+          urna mollis ornare
+        </a>
+         vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.
+      </p>
+      <p>
+        <small>
+          This line of text is meant to be treated as fine print.
+        </small>
+      </p>
+      <p>
+        The following snippet of text is 
+        <strong>
+          rendered as bold text
+        </strong>
+        .
+      </p>
+      <p>
+        The following snippet of text is 
+        <em>
+          rendered as italicized text
+        </em>
+        .
+      </p>
+      <p>
+        An abbreviation of the word attribute is 
+        <abbr
+          title="attribute"
+        >
+          attr
+        </abbr>
+        .
+      </p>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui centered stackable padded center aligned three column grid"
+        style={
+          Object {
+            "margin": "-1.5em",
+            "width": 400,
+          }
+        }
+      >
+        <div
+          className="red column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Red
+        </div>
+        <div
+          className="orange column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Orange
+        </div>
+        <div
+          className="yellow column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Yellow
+        </div>
+        <div
+          className="olive column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Olive
+        </div>
+        <div
+          className="green column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Green
+        </div>
+        <div
+          className="teal column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Teal
+        </div>
+        <div
+          className="blue column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Blue
+        </div>
+        <div
+          className="violet column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Violet
+        </div>
+        <div
+          className="purple column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Purple
+        </div>
+        <div
+          className="pink column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Pink
+        </div>
+        <div
+          className="brown column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Brown
+        </div>
+        <div
+          className="grey column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Grey
+        </div>
+        <div
+          className="black column"
+          style={
+            Object {
+              "height": 50,
+              "margin": "0.5em",
+            }
+          }
+        >
+          Black
+        </div>
+      </div>
+    </div>
+  </div>
+  <h2
+    className="ui dividing header"
+  >
+    Menu
+  </h2>
+  <div
+    className="ui doubling three column grid"
+  >
+    <div
+      className="column"
+    >
+      <div
+        className="ui pointing secondary menu"
+      >
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui pointing tabular menu"
+      >
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <div
+        className="ui pointing menu"
+      >
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+        <a
+          className="item"
+          onClick={[Function]}
+        >
+          Link
+        </a>
+        <a
+          className="right item"
+          onClick={[Function]}
+        >
+          Right text
+        </a>
+      </div>
+    </div>
+  </div>
+  <h2
+    className="ui dividing header"
+  >
+    Buttons
+  </h2>
+  <div
+    className="ui equal width grid"
+  >
+    <div
+      className="column"
+    >
+      <button
+        className="ui button"
+        onClick={[Function]}
+      >
+        Default
+      </button>
+      <button
+        className="ui primary button"
+        onClick={[Function]}
+      >
+        Primary
+      </button>
+      <button
+        className="ui secondary button"
+        onClick={[Function]}
+      >
+        Secondary
+      </button>
+      <button
+        className="ui basic button"
+        onClick={[Function]}
+      >
+        Basic
+      </button>
+      <button
+        className="ui compact button"
+        onClick={[Function]}
+      >
+        Compact
+      </button>
+      <div
+        className="ui divider"
+      />
+      <button
+        className="ui icon button"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="heart icon"
+          onClick={[Function]}
+        />
+      </button>
+      <button
+        className="ui icon left labeled button"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="heart icon"
+          onClick={[Function]}
+        />
+        Labeled
+      </button>
+      <button
+        className="ui icon right labeled button"
+        onClick={[Function]}
+      >
+        <i
+          aria-hidden="true"
+          className="heart icon"
+          onClick={[Function]}
+        />
+        Labeled
+      </button>
+      <div
+        className="ui divider"
+      />
+      <div
+        className="ui buttons"
+      >
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          Combo
+        </button>
+      </div>
+      <div
+        className="ui divider"
+      />
+      <button
+        className="ui animated button"
+        onClick={[Function]}
+      >
+        <div
+          className="visible content"
+        >
+          Horizontal
+        </div>
+        <div
+          className="hidden content"
+        >
+          Hidden
+        </div>
+      </button>
+      <button
+        className="ui vertical animated button"
+        onClick={[Function]}
+      >
+        <div
+          className="visible content"
+        >
+          Vertical
+        </div>
+        <div
+          className="hidden content"
+        >
+          Hidden
+        </div>
+      </button>
+      <button
+        className="ui fade animated button"
+        onClick={[Function]}
+      >
+        <div
+          className="visible content"
+        >
+          Fade In
+        </div>
+        <div
+          className="hidden content"
+        >
+          Hidden
+        </div>
+      </button>
+      <div
+        className="ui divider"
+      />
+      <button
+        className="ui disabled button"
+        disabled={true}
+        onClick={[Function]}
+        tabIndex={-1}
+      >
+        Disabled
+      </button>
+      <button
+        className="ui loading button"
+        onClick={[Function]}
+      >
+        Loading
+      </button>
+      <div
+        className="ui divider"
+      />
+      <div
+        className="ui buttons"
+      >
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          1
+        </button>
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          2
+        </button>
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          3
+        </button>
+      </div>
+      <div
+        className="ui buttons"
+      >
+        <button
+          className="ui icon button"
+          onClick={[Function]}
+        >
+          <i
+            aria-hidden="true"
+            className="align left icon"
+            onClick={[Function]}
+          />
+        </button>
+        <button
+          className="ui icon button"
+          onClick={[Function]}
+        >
+          <i
+            aria-hidden="true"
+            className="align center icon"
+            onClick={[Function]}
+          />
+        </button>
+        <button
+          className="ui icon button"
+          onClick={[Function]}
+        >
+          <i
+            aria-hidden="true"
+            className="align right icon"
+            onClick={[Function]}
+          />
+        </button>
+        <button
+          className="ui icon button"
+          onClick={[Function]}
+        >
+          <i
+            aria-hidden="true"
+            className="align justify icon"
+            onClick={[Function]}
+          />
+        </button>
+      </div>
+      <div
+        className="ui buttons"
+      >
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          1
+        </button>
+        <div
+          className="or"
+        />
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          2
+        </button>
+      </div>
+      <div
+        className="ui divider"
+      />
+      <div
+        className="ui top attached two buttons"
+      >
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          One
+        </button>
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          Two
+        </button>
+      </div>
+      <div
+        className="ui attached segment"
+      >
+        <img
+          className="ui image"
+          src="/images/wireframe/paragraph.png"
+        />
+      </div>
+      <div
+        className="ui bottom attached two buttons"
+      >
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          One
+        </button>
+        <button
+          className="ui button"
+          onClick={[Function]}
+        >
+          Two
+        </button>
+      </div>
+    </div>
+    <div
+      className="column"
+    >
+      <button
+        className="ui mini button"
+        onClick={[Function]}
+      >
+        Mini
+      </button>
+      <button
+        className="ui tiny button"
+        onClick={[Function]}
+      >
+        Tiny
+      </button>
+      <button
+        className="ui small button"
+        onClick={[Function]}
+      >
+        Small
+      </button>
+      <button
+        className="ui large button"
+        onClick={[Function]}
+      >
+        Large
+      </button>
+      <button
+        className="ui big button"
+        onClick={[Function]}
+      >
+        Big
+      </button>
+      <button
+        className="ui huge button"
+        onClick={[Function]}
+      >
+        Huge
+      </button>
+      <button
+        className="ui massive button"
+        onClick={[Function]}
+      >
+        Massive
+      </button>
+      <div
+        className="ui divider"
+      />
+      <button
+        className="ui yellow button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Yellow
+      </button>
+      <button
+        className="ui orange button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Orange
+      </button>
+      <button
+        className="ui green button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Green
+      </button>
+      <button
+        className="ui teal button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Teal
+      </button>
+      <button
+        className="ui blue button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Blue
+      </button>
+      <button
+        className="ui purple button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Purple
+      </button>
+      <button
+        className="ui pink button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Pink
+      </button>
+      <button
+        className="ui red button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Red
+      </button>
+      <button
+        className="ui black button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginBottom": "1em",
+          }
+        }
+      >
+        Black
+      </button>
+      <div
+        className="ui divider"
+      />
+      <div
+        className="ui inverted segment"
+      >
+        <button
+          className="ui inverted button"
+          onClick={[Function]}
+        >
+          Inverted
+        </button>
+        <button
+          className="ui basic inverted button"
+          onClick={[Function]}
+        >
+          Basic
+        </button>
+        <button
+          className="ui blue inverted button"
+          onClick={[Function]}
+        >
+          Colored
+        </button>
+        <button
+          className="ui blue basic inverted button"
+          onClick={[Function]}
+        >
+          Basic Colored
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

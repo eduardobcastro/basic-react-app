@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "module": "commonjs",
+    "target": "esnext",
+    "resolveJsonModule": true,
+    "baseUrl": "src",
+    "jsx": "react"
+  },
+  "exclude": ["node_modules"],
+  "include": ["src"]
+}
